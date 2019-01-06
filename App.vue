@@ -4,6 +4,7 @@
 
     <h1>Ежедневник</h1>
         <p>Приготовьтесь</p>
+        <input type="button" value="CTAPT" />
 
     </div>
 
