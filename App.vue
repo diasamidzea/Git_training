@@ -22,6 +22,8 @@
 <script>
     export default {
 
+//ветка 1
+        
         data() {
             return {
                 quantityOfDiv: 2
